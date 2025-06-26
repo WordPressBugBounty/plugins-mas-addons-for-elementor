@@ -2,9 +2,9 @@
 Contributors: madrasthemes
 Tags: posts, products, nav-menu, carousel, tabs
 Requires at least: 6.3
-Tested up to: 6.7
-Requires PHP: 7.4
-Stable tag: 1.2.0
+Tested up to: 6.8
+Requires PHP: 8.3
+Stable tag: 1.2.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -67,11 +67,13 @@ All of our online documentation can be found on [our documentation site](https:/
 
 == Changelog ==
 
+= 1.2.1 - 2025-05-02 =
+* Fix : Latest YITH WooCommerce Compare compatibility issue
+
 = 1.2.0 - 2025-05-02 =
 * Feature : Pagination options added for carousel
 * Feature : Added swiper arrow options
 * Feature : Added style option for image widget
-
 
 = 1.1.9 - 2025-02-14 =
 * Feature : MAS NavMenu and MAS Add to cart widgets style controls added
